@@ -2,7 +2,7 @@ package com.logical;
 
 import java.util.Scanner;
 
-public class SortArrayAscending {
+public class SortArrayAscending{
 	
 	public static void main(String[] args) {
 
