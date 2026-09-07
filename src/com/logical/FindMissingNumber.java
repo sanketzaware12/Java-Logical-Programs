@@ -43,4 +43,4 @@ public class FindMissingNumber {
 
         sc.close();
     }
-}
+}	
